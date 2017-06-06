@@ -1,5 +1,5 @@
 {
-  "name": "hapi-good-winston",
+  "name": "@flexshopper/hapi-good-winston",
   "version": "1.2.0",
   "description": "A hapi good reporter to log events with winston",
   "main": "./dist/index.js",
